@@ -1,0 +1,16 @@
+// array 
+
+var myArray  = ["happy", "mad", 10, true];
+
+console.log (myArray[10]);
+
+
+// object 
+var batman= {
+	man: "true",
+	weapons: "utilityBelt",
+	vehicle: "batmobile",
+	sidekick: "robin"
+}
+
+
